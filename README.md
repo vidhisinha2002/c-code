@@ -1,1 +1,1 @@
-# c-code
+# code
